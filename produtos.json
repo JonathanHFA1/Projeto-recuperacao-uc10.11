@@ -1,0 +1,16 @@
+{
+    "produtos":[
+        {
+            "id":1,
+            "nome":"Teclado"
+        },
+        {
+            "id":2,
+            "nome":"Mouse"
+        },
+        {
+            "id":1,
+            "nome":"Monitor"
+        }
+    ]
+}
